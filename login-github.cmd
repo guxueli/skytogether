@@ -1,4 +1,6 @@
 @echo off
+set "HTTP_PROXY=http://127.0.0.1:8900"
+set "HTTPS_PROXY=http://127.0.0.1:8900"
 title ScreenInk GitHub Login
 echo ============================================
 echo  GitHub CLI login for ScreenInk

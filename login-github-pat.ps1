@@ -1,3 +1,5 @@
+$env:HTTP_PROXY = 'http://127.0.0.1:8900'
+$env:HTTPS_PROXY = 'http://127.0.0.1:8900'
 $gh = 'C:\Program Files\GitHub CLI\gh.exe'
 Write-Host 'ScreenInk GitHub PAT login'
 Write-Host 'Create a classic token with repo, read:org, gist at https://github.com/settings/tokens'
