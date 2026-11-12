@@ -37,6 +37,10 @@
 
 MCP：运行 ScreenInk.exe --mcp（GUI 同时运行），工具包括 context/annotations/events/target/intent；配置示例 docs/mcp-config.example.json，Skill 模板 skills/screenink/SKILL.md。详见 AGENT-INTEGRATION.md。意图是关键词/行为启发式，不是读心或对象识别。
 
+## 已知问题与路线
+
+本次实测的目标错绑、MCP/opencode 状态和 P0/P1/P2 改善建议见 docs/ANNOTATION-REVIEW-2026-11-12.md。
+
 ## 限制
 
 - 仅 Windows 10/11；需要 .NET Framework 4.x（Windows 自带）。

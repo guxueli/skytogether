@@ -1,5 +1,9 @@
 # Changelog
 
+## Docs
+
+- Added docs/ANNOTATION-REVIEW-2026-11-12.md with target-binding findings, MCP/opencode status and P0/P1/P2 improvements.
+
 ## v0.1.0-alpha
 
 - Windows 10/11 transparent screen ink overlay.
