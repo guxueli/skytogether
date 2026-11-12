@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "screenink": {
+      "command": "C:\\path\\to\\ScreenInk.exe",
+      "args": ["--mcp"]
+    }
+  }
+}
